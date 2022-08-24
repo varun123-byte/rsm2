@@ -1,0 +1,285 @@
+img{
+    width:90px;
+}
+
+.f1 img{
+    width:100%;
+    height: 650px;
+}
+
+body{
+    background-color: rgb(236, 243, 245);
+}
+
+.f2 h1{
+    color: rgb(104, 172, 169);
+    text-shadow: 5px rgb(209, 209, 28);
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', sans-serif;
+    font-size: 400%;
+}
+
+
+.col img{
+    width: 50%;
+    margin-top:5%;;
+    height: 90%;
+    margin-left:30%;
+}
+
+.col p{
+    text-align: center;
+    margin:10px -90px;
+    font-size: larger;
+   padding-left:150px;
+}
+
+.f3 img{
+    width: 40%;
+    height:50%;
+    align-items: center;
+    margin-left: 30%;
+    margin-right:20px;
+    border-radius: 20px;;
+}
+
+.nav{
+    background-color:#e3f2fd;
+}
+
+.nav1{
+    background-color: rgb(177, 194, 206);
+}
+.navv{
+    width:100%;
+    height:90%;
+}
+h1{
+    text-align: center;
+}
+
+.jumbotron{
+    background-color: rgb(114, 184, 224);
+    padding:40px 30px;
+}
+
+.card1{
+    background-color: none;
+    border-radius: 10%;
+    width:110%;
+}
+
+.types table{
+    margin-left:-100px;
+}
+
+.card1 img{
+    border-radius: 10%;
+}
+
+a{
+    cursor: pointer;
+}
+
+ .cardss{
+    width:100%;
+    height:10%;
+    padding:10px 30px;
+}
+
+.cardss table{
+
+}
+
+.card2{
+    border-radius: 80%;
+}
+
+.theory img{
+    width:30%;
+    height:10%;
+    margin-left:35%;
+    border-radius: 10%;
+    box-shadow: 2px 2px 2px solid red;
+}
+
+.theory p{
+    margin:10px 50px;
+    font-size: 20px;
+}
+
+.theory i{
+    font-size:48px;
+    color:red;
+}
+
+.cardss img{
+    border-radius: 20px;
+}
+
+.login{
+    text-align: center; color: white; font-size: 25px;
+}
+
+.login h1{
+    color: black;
+}
+
+.login label{
+    color:black;
+}
+input{
+    width:50%;
+    border:2px solid black;
+    border-radius: 10px;
+}
+.login button{
+    background-color: rgb(82, 125, 161);
+    width:150px;
+    border-radius: 10px;
+    color: white;
+}
+
+.login{
+    font-size: 20px;
+    margin-top:35px;
+}
+
+.log {
+    color: white;
+    margin-left:10%;
+}
+
+.login a{
+    text-decoration:none;
+     margin-left:-30.1px;
+}
+
+/*index2.html*/
+.login a{
+text-decoration:none;
+}
+
+.login2 {
+    text-align: center; margin-top:20px;
+}
+
+.for {
+    margin-right:-25%;
+}
+
+hr{
+    background-color: rgb(21, 20, 20); 
+    margin-left:350px;
+    color: black; margin-right: 350px;
+    border: 1.5px solid black;
+}
+
+.login3{
+    text-align: center; 
+}
+
+
+.login2 .twitter{
+    color:blue;
+    margin-left:10px; 
+    
+}
+
+.google{
+    color: rgb(0, 244, 37);
+    
+}
+
+
+.git{
+    color:black;
+   
+}
+
+.login2 p{
+    font-size: 15px;
+    color:black;
+    margin-left:20px;
+}
+
+.login2 p a{
+    text-decoration:none; color:blue;
+}
+
+.register input[t1]{
+    width: 230px; height: 10px;
+}
+
+.register input{
+    width: 470px; height: 40px;
+    border-radius: 5px;
+}
+
+.register{
+    text-align: center; display: block; border: 1px  solid rgb(193, 186, 186); margin-left:400px; margin-right:400px; margin-top: 40px; background-color:rgb(215, 226, 235); box-shadow:10px 10px 2px 2px solid wheat;
+}
+
+.login{
+    text-align: center; color: white; font-size: 20px; background-color: white; margin-left:20%; margin-right:20%; border:2px solid black; background-color:rgb(215, 226, 235);
+}
+
+.a1 input{
+    width: 120%;
+}
+
+.a1{
+    margin:10px 500px;
+}
+
+.a1 input{
+    width:626px;
+    height:40px;
+    border:1px solid rgb(182, 182, 211);
+}
+
+.sub input{
+    background-color: rgb(114, 184, 224);
+}
+
+.tcs img{
+    width:30%;
+    height:10%;
+    margin-left:35%;
+    border-radius: 10%;
+    box-shadow: 2px 2px 2px solid red;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-left:10%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+ .tcs tr:nth-child(even) {  
+    background-color: #dddddd;
+  }
+
+  .tcs p{
+    margin:10px 50px;
+    font-size: 20px;
+}
+
+.tcs h3{
+    margin-left:20%;
+}
+
+footer{
+    background-color: #e6edf1;
+}
+
+#dd{
+    background-color: rgba(0, 0, 0, 0.2);
+}
